@@ -1,7 +1,7 @@
 # paste
 ###
 
-  if (epoch+1)>10 and total_test_loss<mintestloss:        #整体最优
+    if (epoch+1)>10 and total_test_loss<mintestloss:        #整体最优
         # if (epoch+1)>10 and Classtest_loss<minClasstestloss:        #类别最优
         # if (epoch+1)>10 and CONCtest_loss<minCONCtestloss:        #浓度最优
 
